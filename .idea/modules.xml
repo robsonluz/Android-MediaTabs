@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/MediaTeste.iml" filepath="$PROJECT_DIR$/MediaTeste.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
+=======
+      <module fileurl="file://$PROJECT_DIR$/MediaTabs.iml" filepath="$PROJECT_DIR$/MediaTabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
+
+>>>>>>> 7f6dc14999905a4b59f8a4d26b92fc54369207b2
